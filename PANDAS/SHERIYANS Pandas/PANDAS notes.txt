@@ -1,0 +1,37 @@
+PANDAS Notes:
+
+1. head():
+head in pandas are used to see the first 5 rows of the dataframes
+
+2. tail():
+tail in pandas are used to see the last 5 rows of the dataframes
+
+3. info():
+info in pandas are used to get the summary of the dataframes
+
+4. dtypes():
+dtype in pandas are used to get the data types of the columns of the dataframes
+
+5. shape():
+shape in pandas are used to get the shape of the dataframes
+
+6.  df.loc()
+loc is used in pandas to get the desired rows and columns individually in the form of series and if we pass an index in "" then we can get the elementy at that index of the called row
+and also we can poass multiple values in the loc() and get the desired rows and columns in the form of dataframes eg. b.loc[1:3,"Name"]
+
+7. index
+indecx is used to get the range index of the data eg. (start=0,end=4,step=1)
+
+8. columns
+it gives all the columns name available in the data
+
+9. df.values
+it gives the value of the whole data into the form of array
+
+10. b.rename(columns={"Score":"Marks"},inplace=True)
+used to rename the columns or rows of the dataframes
+
+
+
+
+

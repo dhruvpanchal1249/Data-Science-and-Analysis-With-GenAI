@@ -1,0 +1,13 @@
+{
+    "books": [
+        {
+            "id": "B-6J7OS",
+            "title": "Mahabharat",
+            "author": "Valmiki",
+            "total_copies": "30",
+            "avialable_copies": "30",
+            "added_on": "2026-07-04 00:40:59"
+        }
+    ],
+    "members": []
+}

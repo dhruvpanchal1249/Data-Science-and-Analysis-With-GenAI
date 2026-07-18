@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "id": "B-6J7OS",
+            "title": "Mahabharat",
+            "author": "Valmiki",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "2026-07-04 00:40:59"
+        },
+        {
+            "id": "B-J2UP5",
+            "title": "Mahabharat",
+            "author": "Valmiki",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "2026-07-04 00:45:30"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-6ML4T",
+            "name": "Dhruv",
+            "email": " dhruvpanchal0312@gmail.com",
+            "borrowed_books": []
+        },
+        {
+            "id": "M-TA1MG",
+            "name": "Dhruv Panchal",
+            "email": "dhruv@gmail.com",
+            "borrowed_books": []
+        }
+    ]
+}
