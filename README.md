@@ -416,36 +416,43 @@ A **full-featured Library Management System** with two interfaces:
     <th>Progress</th>
     <th>Status</th>
   </tr>
-  <tr>
-    <td>🔢 NumPy</td>
-    <td>████████████████████ 100%</td>
-    <td>✅ Completed</td>
-  </tr>
+
   <tr>
     <td>🐍 Python Projects</td>
     <td>████████████████████ 100%</td>
     <td>✅ Completed</td>
   </tr>
+
+  <tr>
+    <td>📈 Statistics &amp; Probability</td>
+    <td>████████████████████ 100%</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>🔢 NumPy</td>
+    <td>████████████████████ 100%</td>
+    <td>✅ Completed</td>
+  </tr>
+
   <tr>
     <td>🐼 Pandas</td>
     <td>████████░░░░░░░░░░░░ 40%</td>
     <td>🔄 In Progress</td>
   </tr>
+
   <tr>
     <td>📊 Data Visualization</td>
     <td>░░░░░░░░░░░░░░░░░░░░ 0%</td>
     <td>🔜 Upcoming</td>
   </tr>
-  <tr>
-    <td>📈 Statistics & Probability</td>
-    <td>░░░░░░░░░░░░░░░░░░░░ 100%</td>
-    <td>🔜 Completed</td>
-  </tr>
+
   <tr>
     <td>🤖 Machine Learning</td>
     <td>░░░░░░░░░░░░░░░░░░░░ 0%</td>
     <td>🔜 Upcoming</td>
   </tr>
+
   <tr>
     <td>🧠 GenAI</td>
     <td>░░░░░░░░░░░░░░░░░░░░ 0%</td>
