@@ -606,6 +606,7 @@ copies or substantial portions of the Software.
 
 <p align="center">
 
+<<<<<<< HEAD
 💻 **GitHub**  
 https://github.com/dhruvpanchal1249
 
@@ -614,6 +615,16 @@ https://www.linkedin.com/in/dhruv-p-735310341
 
 📧 **Email**  
 dhruvpanchal0312@gmail.com
+=======
+| Platform | Link |
+|----------|------|
+<<<<<<< HEAD=======
+| 🐙 **GitHub** | [github.com/YOUR_USERNAME](https://github.com/dhruvpanchal1249) |
+| 💼 **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](www.linkedin.com/in/dhruv-p-735310341) |
+| 📧 **Email** | [dhruvpanchal0312@gmail.com](mailto:dhruvpanchal0312@gmail.com) |
+|
+>>>>>>> 9a9e87c8405366667de8eb02f1f57d99348990a4
+>>>>>>> d3da88f86dcc8241e0d4d8ddc87acc7bde2e39b4
 
 </p>
 
