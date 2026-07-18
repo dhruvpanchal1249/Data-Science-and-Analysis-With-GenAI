@@ -438,8 +438,8 @@ A **full-featured Library Management System** with two interfaces:
   </tr>
   <tr>
     <td>📈 Statistics & Probability</td>
-    <td>░░░░░░░░░░░░░░░░░░░░ 0%</td>
-    <td>🔜 Upcoming</td>
+    <td>░░░░░░░░░░░░░░░░░░░░ 100%</td>
+    <td>🔜 Completed</td>
   </tr>
   <tr>
     <td>🤖 Machine Learning</td>
