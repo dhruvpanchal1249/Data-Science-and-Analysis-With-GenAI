@@ -606,19 +606,14 @@ copies or substantial portions of the Software.
 
 <p align="center">
 
-| Platform | Link |
-|----------|------|
-<<<<<<< HEAD
-| 🐙 **GitHub** | [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
-| 📧 **Email** | [dhruvpanchal0312@gmail.com](mailto:dhruvpanchal0312@gmail.com) |
-| 🌐 **Portfolio** | [your-portfolio.com](https://your-portfolio.com) |
-=======
-| 🐙 **GitHub** | [github.com/YOUR_USERNAME](https://github.com/dhruvpanchal1249) |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN](www.linkedin.com/in/dhruv-p-735310341) |
-| 📧 **Email** | [dhruvpanchal0312@gmail.com](mailto:dhruvpanchal0312@gmail.com) |
-|
->>>>>>> 9a9e87c8405366667de8eb02f1f57d99348990a4
+💻 **GitHub**  
+https://github.com/dhruvpanchal1249
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/dhruv-p-735310341
+
+📧 **Email**  
+dhruvpanchal0312@gmail.com
 
 </p>
 
