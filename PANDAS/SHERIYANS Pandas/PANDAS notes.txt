@@ -31,6 +31,10 @@ it gives the value of the whole data into the form of array
 10. b.rename(columns={"Score":"Marks"},inplace=True)
 used to rename the columns or rows of the dataframes
 
+11. b.isna() / b.isnull()
+used to find the missing values in the data
+
+12. 
 
 
 
